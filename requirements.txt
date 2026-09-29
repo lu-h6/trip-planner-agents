@@ -1,0 +1,3 @@
+# Compatibility entrypoint for pip users.
+# The dependency source of truth is pyproject.toml.
+-e .
